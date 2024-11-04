@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NU2C3FJ8V3.com.niujia.enoleapd",
+                "paths": [ "/enoleap/*"]
+            }
+        ]
+    }
+}
